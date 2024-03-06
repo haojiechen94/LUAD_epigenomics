@@ -8,6 +8,6 @@ A high intertumoral epigenetic heterogeneity is observed across the LUAD H3K27ac
 
 <p align="center">
   <a href="#">
-     <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/haojiechen94/TF_or_ER_activity_scores" />
+     <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/haojiechen94/LUAD_epigenomics" />
    </a>
 </p>
